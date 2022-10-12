@@ -1,0 +1,15 @@
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\bin\Debug\net6.0\First_project_C#.exe
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\bin\Debug\net6.0\First_project_C#.deps.json
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\bin\Debug\net6.0\First_project_C#.runtimeconfig.json
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\bin\Debug\net6.0\First_project_C#.dll
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\bin\Debug\net6.0\First_project_C#.pdb
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\First_project_C#.csproj.AssemblyReference.cache
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\First_project_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\First_project_C#.AssemblyInfoInputs.cache
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\First_project_C#.AssemblyInfo.cs
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\First_project_C#.csproj.CoreCompileInputs.cache
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\First_project_C#.dll
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\refint\First_project_C#.dll
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\First_project_C#.pdb
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\First_project_C#.genruntimeconfig.cache
+D:\Python projects\Уроки GB\3. Знакомство с языками программирования\Lesson_1_lection_programming_languages\First_project_C#\obj\Debug\net6.0\ref\First_project_C#.dll
